@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kashyap-Pandya
-- 🌱 I’m currently learning Javascript & React.
+- 🌱 I’m currently focusing on Full Stack Development.
 - 💞️ I’m looking to collaborate on frontend projects.
 
 <!---
